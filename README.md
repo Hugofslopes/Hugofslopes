@@ -7,5 +7,4 @@
 
 🌱 As an eternal learner, I am always eager to expand my skill set and explore new technologies. I thrive on the challenges of programming for hardware and love bringing my ideas to life through innovative projects.
 
-
-![Image](https://github.com/user-attachments/assets/50d60c6c-c539-4834-b157-76937a85be61)
+![Image](https://github.com/user-attachments/assets/fa42e88a-ac36-4710-86b8-96f075daac2a)
