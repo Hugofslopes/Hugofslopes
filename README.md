@@ -6,3 +6,6 @@
 🎓 Currently, I am taking a course at 42-Porto, where I am learning C and C++, and I have some basic knowledge of Java, HTML, JavaScript and CSS.
 
 🌱 As an eternal learner, I am always eager to expand my skill set and explore new technologies. I thrive on the challenges of programming for hardware and love bringing my ideas to life through innovative projects.
+
+# 🌟 My Skills & Interests 🌟
+**Java** ☕ | **HTML** 🌐 | **CSS** 🎨 | **JavaScript** 📜 | **C** 🔤 | **C++** ⚙️ | **Arduino** 🛠️ | **Raspberry Pi** 🍓
