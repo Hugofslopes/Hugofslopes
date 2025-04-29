@@ -1,8 +1,4 @@
+![Image](https://github.com/user-attachments/assets/c800da5c-9267-442a-9792-4e529b465683)
 - 👋 Hi, I’m @Hugofslopes
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-
-<!---
-Hugofslopes/Hugofslopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
