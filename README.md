@@ -6,3 +6,6 @@
 🎓 Currently, I am taking a course at 42-Porto, where I am learning C and C++, and I have some basic knowledge of Java, HTML, JavaScript and CSS.
 
 🌱 As an eternal learner, I am always eager to expand my skill set and explore new technologies. I thrive on the challenges of programming for hardware and love bringing my ideas to life through innovative projects.
+
+
+![Image](https://github.com/user-attachments/assets/50d60c6c-c539-4834-b157-76937a85be61)
