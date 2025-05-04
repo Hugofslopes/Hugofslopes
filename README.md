@@ -14,3 +14,20 @@ Shortcuts
 <summary><b>IEFP Java Course</b></summary>
 <a href="https://github.com/Hugofslopes/ParouImparHTML">Par or Impar game</a>
 </details>
+
+<details>
+  <summary><b>42 School</b></summary>
+<details>
+  <summary><b>Piscine</b></summary> 
+</details>
+<details>
+  <summary><b>Piscine Reloaded</b></summary> 
+</details>
+<details>
+  <summary><b>Common Core</b></summary> 
+<details>
+  <summary><b>Rank 0</b></summary> 
+</details>
+<a href="https://github.com/Hugofslopes/libft">Libft</a>
+</details>
+</details>
