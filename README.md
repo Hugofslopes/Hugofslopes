@@ -10,52 +10,44 @@
 ![Image](https://github.com/user-attachments/assets/6743928b-dc74-474e-b2a8-e34eb440cec4)
 # Shortcuts
 
-
 <details>
 <summary><b>IEFP Java Course</b></summary>
-- <a href="https://github.com/Hugofslopes/ParouImparHTML">Par or Impar game</a> 
+  - <a href="https://github.com/Hugofslopes/ParouImparHTML">Par or Impar game</a> 
 </details>
-
 <details>
 <summary><b>42 School</b></summary>
-
-- <details>
+  <details>
   <summary><b>Common Core</b></summary>
-
-- <details>
-<summary><b>Rank 0</b></summary>
-- <a href="https://github.com/Hugofslopes/libft">Libft</a>
-</details>
-
-- <details>
-<summary><b>Rank 1</b></summary>
-- <a href="https://github.com/Hugofslopes/printf">Printf</a><br>
-- <a href="https://github.com/Hugofslopes/get_next_line">Get next line</a>
-</details>
-
-- <details>
-<summary><b>Rank 2</b></summary>
-- <a href="https://github.com/Hugofslopes/pipex">Pipex</a><br>
-- <a href="https://github.com/Hugofslopes/minishell">Minishell</a><br>
-- <a href="https://github.com/Hugofslopes/philosophers">Philosophers</a><br>
-</details>
-
-- <details>
-<summary><b>Rank 3</b></summary>
-- <a href="https://github.com/Hugofslopes/netpractice">Net practice</a><br>
-- <a href="https://github.com/Hugofslopes/CP00">CPP Module 00</a><br>
-- <a href="https://github.com/Hugofslopes/philosophers">Philosophers</a><br>
-</details>
-</details>
-
-- <details>
-<summary><b>Piscine</b></summary>
-- <a href="https://github.com/Hugofslopes/Piscine">C Piscine</a>
-</details>
-
-- <details>
+    <details>
+    <summary><b>Rank 0</b></summary>
+      - <a href="https://github.com/Hugofslopes/libft">Libft</a>
+    </details>
+    <details>
+    <summary><b>Rank 1</b></summary>
+      - <a href="https://github.com/Hugofslopes/printf">Printf</a><br>
+      - <a href="https://github.com/Hugofslopes/get_next_line">Get next line</a>
+    </details>
+    <details>
+    <summary><b>Rank 2</b></summary>
+      - <a href="https://github.com/Hugofslopes/pipex">Pipex</a><br>
+      - <a href="https://github.com/Hugofslopes/minishell">Minishell</a><br>
+      - <a href="https://github.com/Hugofslopes/philosophers">Philosophers</a><br>
+    </details>
+    <details>
+    <summary><b>Rank 3</b></summary>
+      - <a href="https://github.com/Hugofslopes/netpractice">Net practice</a><br>
+      - <a href="https://github.com/Hugofslopes/CP00">CPP Module 00</a><br>
+      - <a href="https://github.com/Hugofslopes/philosophers">Philosophers</a><br>
+    </details>
+  </details>
+  
+  <details>
+  <summary><b>Piscine</b></summary>
+    - <a href="https://github.com/Hugofslopes/Piscine">C Piscine</a>
+  </details>
+  
+  <details>
   <summary><b>Piscine Reloaded</b></summary>
-  - <a href="https://github.com/Hugofslopes/piscine_reloaded">Piscine Reloaded</a>
-</details>
-
+    - <a href="https://github.com/Hugofslopes/piscine_reloaded">Piscine Reloaded</a>
+  </details>
 </details>
