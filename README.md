@@ -27,7 +27,7 @@
 
 - <details>
   <summary><b>Piscine Reloaded</b></summary>
-  - <a href="https://github.com/Hugofslopes/piscine_reloaded/">Piscine</a>
+  - <a href="https://github.com/Hugofslopes/piscine_reloaded">Piscine Reloaded</a>
   </details>
 
 - <details>
@@ -35,13 +35,13 @@
 
   - <details>
     <summary><b>Rank 0</b></summary>
-    - [Libft](https://github.com/Hugofslopes/libft)
+    - <a href="https://github.com/Hugofslopes/libft">Libft</a>
     </details>
 
   - <details>
     <summary><b>Rank 1</b></summary>
-    - [Printf](https://github.com/Hugofslopes/printf)  
-    - [Get next line](https://github.com/Hugofslopes/get_next_line)
+    - <a href="ttps://github.com/Hugofslopes/printf">printf</a>
+    - <a href="https://github.com/Hugofslopes/get_next_line">Get next line</a>
     </details>
 
   - <details>
