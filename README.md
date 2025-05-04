@@ -22,12 +22,12 @@
 
 - <details>
   <summary><b>Piscine</b></summary>
- https://github.com/Hugofslopes/Piscine
+  - <a href="https://github.com/Hugofslopes/Piscine">C Piscine</a>
   </details>
 
 - <details>
   <summary><b>Piscine Reloaded</b></summary>
-  <!-- you can add content here if needed -->
+  - <a href="https://github.com/Hugofslopes/piscine_reloaded/">Piscine</a>
   </details>
 
 - <details>
