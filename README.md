@@ -27,6 +27,7 @@
       <ul>
         <li><a href="https://github.com/Hugofslopes/printf">Printf</a></li>
         <li><a href="https://github.com/Hugofslopes/get_next_line">Get next line</a></li>
+        <li><a href="https://github.com/Hugofslopes/exam_rank1">Exam rank 1</a></li>
       </ul>
     </details>
     <details>
