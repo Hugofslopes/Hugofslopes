@@ -12,5 +12,5 @@
 Shortcuts
 <details>
 <summary><b>IEFP Java Course</b></summary>
-<a href="https://github.com/Hugofslopes/ParouImparHTML" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color:rgb(237, 242, 247); text-align: center; text-decoration: none; border-radius: 5px; margin-left: 10px;">Par or Impar game</a>
+<a href="https://github.com/Hugofslopes/ParouImparHTML">Par or Impar game</a>
 </details>
