@@ -21,16 +21,6 @@
 <summary><b>42 School</b></summary>
 
 - <details>
-  <summary><b>Piscine</b></summary>
-  - <a href="https://github.com/Hugofslopes/Piscine">C Piscine</a>
-  </details>
-
-- <details>
-  <summary><b>Piscine Reloaded</b></summary>
-  - <a href="https://github.com/Hugofslopes/piscine_reloaded">Piscine Reloaded</a>
-  </details>
-
-- <details>
   <summary><b>Common Core</b></summary>
 
   - <details>
@@ -50,6 +40,16 @@
     - [Libft](https://github.com/Hugofslopes/libft)  
     - [Libft](https://github.com/Hugofslopes/libft)  
     </details>
+
+  - <details>
+  <summary><b>Piscine</b></summary>
+  - <a href="https://github.com/Hugofslopes/Piscine">C Piscine</a>
+  </details>
+
+  - <details>
+  <summary><b>Piscine Reloaded</b></summary>
+  - <a href="https://github.com/Hugofslopes/piscine_reloaded">Piscine Reloaded</a>
+  </details>
 
   </details>
 
