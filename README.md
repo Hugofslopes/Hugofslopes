@@ -42,7 +42,6 @@
       <ul>
         <li><a href="https://github.com/Hugofslopes/netpractice">Net practice</a></li>
         <li><a href="https://github.com/Hugofslopes/CP00">CPP Module 00</a></li>
-        <li><a href="https://github.com/Hugofslopes/philosophers">Philosophers</a></li>
       </ul>
     </details>
   </details>
