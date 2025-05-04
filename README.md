@@ -27,7 +27,18 @@ Shortcuts
   <summary><b>Common Core</b></summary> 
 <details>
   <summary><b>Rank 0</b></summary> 
-</details>
 <a href="https://github.com/Hugofslopes/libft">Libft</a>
+</details>
+<details>
+  <summary><b>Rank 1</b></summary> 
+<a href="https://github.com/Hugofslopes/printf">Printf</a>
+<a href="https://github.com/Hugofslopes/get_next_line">Get next line</a>
+</details>
+<details>
+<summary><b>Rank 2</b></summary> 
+<a href="https://github.com/Hugofslopes/libft">Libft</a>
+<a href="https://github.com/Hugofslopes/libft">Libft</a>
+<a href="https://github.com/Hugofslopes/libft">Libft</a>
+</details>
 </details>
 </details>
