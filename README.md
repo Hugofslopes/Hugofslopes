@@ -8,37 +8,49 @@
 🌱 As an eternal learner, I am always eager to expand my skill set and explore new technologies. I thrive on the challenges of programming for hardware and love bringing my ideas to life through innovative projects.
 
 ![Image](https://github.com/user-attachments/assets/6743928b-dc74-474e-b2a8-e34eb440cec4)
+# Shortcuts
 
-Shortcuts
 <details>
 <summary><b>IEFP Java Course</b></summary>
-<a href="https://github.com/Hugofslopes/ParouImparHTML">Par or Impar game</a>
+
+- [Par or Impar game](https://github.com/Hugofslopes/ParouImparHTML)
+
 </details>
 
 <details>
-  <summary><b>42 School</b></summary>
-<details>
-  <summary><b>Piscine</b></summary> 
-</details>
-<details>
-  <summary><b>Piscine Reloaded</b></summary> 
-</details>
-<details>
-  <summary><b>Common Core</b></summary> 
-<details>
-  <summary><b>Rank 0</b></summary> 
-<a href="https://github.com/Hugofslopes/libft">Libft</a>
-</details>
-<details>
-  <summary><b>Rank 1</b></summary> 
-<a href="https://github.com/Hugofslopes/printf">Printf</a>
-<a href="https://github.com/Hugofslopes/get_next_line">Get next line</a>
-</details>
-<details>
-<summary><b>Rank 2</b></summary> 
-<a href="https://github.com/Hugofslopes/libft">Libft</a>
-<a href="https://github.com/Hugofslopes/libft">Libft</a>
-<a href="https://github.com/Hugofslopes/libft">Libft</a>
-</details>
-</details>
+<summary><b>42 School</b></summary>
+
+- <details>
+  <summary><b>Piscine</b></summary>
+  <!-- you can add content here if needed -->
+  </details>
+
+- <details>
+  <summary><b>Piscine Reloaded</b></summary>
+  <!-- you can add content here if needed -->
+  </details>
+
+- <details>
+  <summary><b>Common Core</b></summary>
+
+  - <details>
+    <summary><b>Rank 0</b></summary>
+    - [Libft](https://github.com/Hugofslopes/libft)
+    </details>
+
+  - <details>
+    <summary><b>Rank 1</b></summary>
+    - [Printf](https://github.com/Hugofslopes/printf)  
+    - [Get next line](https://github.com/Hugofslopes/get_next_line)
+    </details>
+
+  - <details>
+    <summary><b>Rank 2</b></summary>
+    - [Libft](https://github.com/Hugofslopes/libft)  
+    - [Libft](https://github.com/Hugofslopes/libft)  
+    - [Libft](https://github.com/Hugofslopes/libft)  
+    </details>
+
+  </details>
+
 </details>
