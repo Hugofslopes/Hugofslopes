@@ -40,7 +40,8 @@
     - [Libft](https://github.com/Hugofslopes/libft)  
     - [Libft](https://github.com/Hugofslopes/libft)  
     </details>
-
+  </details>
+  
   - <details>
   <summary><b>Piscine</b></summary>
   - <a href="https://github.com/Hugofslopes/Piscine">C Piscine</a>
@@ -49,8 +50,6 @@
   - <details>
   <summary><b>Piscine Reloaded</b></summary>
   - <a href="https://github.com/Hugofslopes/piscine_reloaded">Piscine Reloaded</a>
-  </details>
-
   </details>
 
 </details>
