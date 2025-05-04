@@ -8,3 +8,9 @@
 🌱 As an eternal learner, I am always eager to expand my skill set and explore new technologies. I thrive on the challenges of programming for hardware and love bringing my ideas to life through innovative projects.
 
 ![Image](https://github.com/user-attachments/assets/6743928b-dc74-474e-b2a8-e34eb440cec4)
+
+Guide to my git 
+<details>
+<summary><b>IEFP Java Course</b></summary>
+<a href="https://github.com/Hugofslopes/ParouImparHTML" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color:rgb(237, 242, 247); text-align: center; text-decoration: none; border-radius: 5px; margin-left: 10px;">Par or Impar game</a>
+</details>
