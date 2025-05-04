@@ -40,7 +40,7 @@
     - [Libft](https://github.com/Hugofslopes/libft)  
     - [Libft](https://github.com/Hugofslopes/libft)  
     </details>
-  </details>
+</details>
   
   - <details>
   <summary><b>Piscine</b></summary>
