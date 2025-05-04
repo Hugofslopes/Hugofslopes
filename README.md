@@ -40,8 +40,8 @@
 
   - <details>
     <summary><b>Rank 1</b></summary>
-    - <c href="https://github.com/Hugofslopes/printf">Printf</c><br>
-    - <b href="https://github.com/Hugofslopes/get_next_line">Get next line</b>
+    - <a href="https://github.com/Hugofslopes/printf">Printf</a><br>
+    - <a href="https://github.com/Hugofslopes/get_next_line">Get next line</a>
     </details>
 
   - <details>
