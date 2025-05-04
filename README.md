@@ -13,7 +13,7 @@
 <details>
 <summary><b>IEFP Java Course</b></summary>
 
-- [Par or Impar game](https://github.com/Hugofslopes/ParouImparHTML)
+- <a href="https://github.com/Hugofslopes/ParouImparHTML">Par or Impar game</a> 
 
 </details>
 
@@ -22,7 +22,7 @@
 
 - <details>
   <summary><b>Piscine</b></summary>
-  <!-- you can add content here if needed -->
+ https://github.com/Hugofslopes/Piscine
   </details>
 
 - <details>
