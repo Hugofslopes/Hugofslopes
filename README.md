@@ -27,22 +27,30 @@
       <ul>
         <li><a href="https://github.com/Hugofslopes/printf">Printf</a></li>
         <li><a href="https://github.com/Hugofslopes/get_next_line">Get next line</a></li>
-        <li><a href="https://github.com/Hugofslopes/exam_rank1">Exam rank 1</a></li>
       </ul>
     </details>
     <details>
     <summary><b>Rank 2</b></summary>
       <ul>
         <li><a href="https://github.com/Hugofslopes/pipex">Pipex</a></li>
-        <li><a href="https://github.com/Hugofslopes/minishell">Minishell</a></li>
-        <li><a href="https://github.com/Hugofslopes/philosophers">Philosophers</a></li>
+        <li><a href="https://github.com/Hugofslopes/fdf">Fdf</a></li>
+        <li><a href="https://github.com/Hugofslopes/push_swap">Push Swap</a></li>
+        <li><a href="https://github.com/Hugofslopes/exam_rank2">Exam rank 2</a></li>
       </ul>
     </details>
     <details>
     <summary><b>Rank 3</b></summary>
       <ul>
+        <li><a href="https://github.com/Hugofslopes/minishell">Minishell</a></li>
+        <li><a href="https://github.com/Hugofslopes/philosophers">Philosophers</a></li>
+      </ul>
+    </details>
+     <details>
+    <summary><b>Rank 4</b></summary>
+      <ul>
         <li><a href="https://github.com/Hugofslopes/netpractice">Net practice</a></li>
         <li><a href="https://github.com/Hugofslopes/CP00">CPP Module 00</a></li>
+        <li><a href="https://github.com/Hugofslopes/exam_rank4">Exam rank 1</a></li>
       </ul>
     </details>
   </details>
