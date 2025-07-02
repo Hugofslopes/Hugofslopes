@@ -48,7 +48,6 @@
      <details>
     <summary><b>Rank 4</b></summary>
       <ul>
-        <li><a href="https://github.com/Hugofslopes/netpractice">Net practice</a></li>
         <details>
          <summary><b>CPP</b></summary>
           <ul>
@@ -59,6 +58,7 @@
             <li><a href="https://github.com/Hugofslopes/cpp04">CPP Module 04</a></li>
           </ul>
         </details>
+        <li><a href="https://github.com/Hugofslopes/netpractice">Net practice</a></li>
         <li><a href="https://github.com/Hugofslopes/Cub3d">Cub 3D</a></li>
         <li><a href="https://github.com/Hugofslopes/exam_rank4">Exam rank 4</a></li>
       </ul>
