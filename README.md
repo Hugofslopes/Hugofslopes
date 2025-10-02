@@ -83,8 +83,8 @@
      <details>
       <summary><b>Rank 6</b></summary>
         <ul>
-          <li><a href="https://github.com/Hugofslopes/ft_transcendence">Net practice</a></li>
-          <li><a href="https://github.com/Hugofslopes/exam_rank6">Cub 3D</a></li>
+          <li><a href="https://github.com/Hugofslopes/ft_transcendence">ft_transcendence</a></li>
+          <li><a href="https://github.com/Hugofslopes/exam_rank6">Exam rank 6</a></li>
         </ul>
       </details>
     </details>
