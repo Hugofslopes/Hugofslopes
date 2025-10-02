@@ -80,19 +80,19 @@
         <li><a href="https://github.com/Hugofslopes/exam_rank5">Exam rank 5</a></li>
       </ul>
     </details>
-     </details>
      <details>
-    <summary><b>Rank 6</b></summary>
-      <ul>
-        <li><a href="https://github.com/Hugofslopes/ft_transcendence">Net practice</a></li>
-        <li><a href="https://github.com/Hugofslopes/exam_rank6">Cub 3D</a></li>
-      </ul>
+      <summary><b>Rank 6</b></summary>
+        <ul>
+          <li><a href="https://github.com/Hugofslopes/ft_transcendence">Net practice</a></li>
+          <li><a href="https://github.com/Hugofslopes/exam_rank6">Cub 3D</a></li>
+        </ul>
+      </details>
     </details>
-  </details>
-  <details>
-  <summary><b>Piscine</b></summary>
-    - <a href="https://github.com/Hugofslopes/Piscine">C Piscine</a>
-  </details>
+    <details>
+    <summary><b>Piscine</b></summary>
+      - <a href="https://github.com/Hugofslopes/Piscine">C Piscine</a>
+    </details>
+</details>
   <details>
   <summary><b>Piscine Reloaded</b></summary>
     - <a href="https://github.com/Hugofslopes/piscine_reloaded">Piscine Reloaded</a>
