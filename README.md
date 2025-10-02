@@ -11,10 +11,6 @@
 
 # Shortcuts
 <details>
-<summary><b>IEFP Java Course</b></summary>
-  - <a href="https://github.com/Hugofslopes/ParouImparHTML">Par or Impar game</a> 
-</details>
-<details>
 <summary><b>42 School</b></summary>
   <details>
   <summary><b>Common Core</b></summary>
@@ -97,4 +93,8 @@
     - <a href="https://github.com/Hugofslopes/piscine_reloaded">Piscine Reloaded</a>
   </details>
 </details>    
+</details>
+<details>
+<summary><b>IEFP Java Course</b></summary>
+  - <a href="https://github.com/Hugofslopes/ParouImparHTML">Par or Impar game</a> 
 </details>
