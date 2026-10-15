@@ -1,12 +1,11 @@
 ![Image](https://github.com/user-attachments/assets/c800da5c-9267-442a-9792-4e529b465683)
 
 
-🛠️ I am an enthusiastic programmer with a keen interest in working with physical hardware. I enjoy creating my own projects using Raspberry Pi and Arduino, where I can combine my programming skills with hands-on experimentation. 
+🛠️ I am a Software Developer and **42 Porto graduate**[cite: 2] with a strong passion for physical hardware, embedded systems, and low-level programming. I enjoy building hands-on projects combining C, C++, and hardware experimentation[cite: 2].
 
-🎓 Currently, I am taking a course at 42-Porto, where I am learning C and C++, and I have some basic knowledge of Java, HTML, JavaScript and CSS.
+🎓 Through my professional experience at **SEA:ME-pt**, I worked on autonomous vehicle prototyping, Linux environments, and firmware development[cite: 2]. You can check out my main team project here: [Team04_DrivaPi](https://github.com/SEAME-pt/Team04_DrivaPi).
 
-🌱 As an eternal learner, I am always eager to expand my skill set and explore new technologies. I thrive on the challenges of programming for hardware and love bringing my ideas to life through innovative projects.
-
+🌱 As a continuous learner, I am always eager to tackle new challenges in hardware-software integration, Python, and robust software solutions[cite: 2].
 ![Image](https://github.com/user-attachments/assets/6743928b-dc74-474e-b2a8-e34eb440cec4)
 
 # Shortcuts
